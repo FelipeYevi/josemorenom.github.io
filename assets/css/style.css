@@ -1,3 +1,4 @@
+
 * {
   margin: 0%;
   padding: 0%;
@@ -6,3 +7,8 @@
 .navbar {
   font-family: roboto;
 }
+
+.card{
+  background: gray;
+}
+
