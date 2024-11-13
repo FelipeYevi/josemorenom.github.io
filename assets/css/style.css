@@ -4,11 +4,9 @@
   padding: 0%;
   border: 0%;
 }
-.navbar {
-  font-family: roboto;
-}
 
-.card{
+
+.card-body{
   background: gray;
+  
 }
-
